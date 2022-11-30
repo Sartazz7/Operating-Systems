@@ -1,0 +1,6 @@
+CC1 passed
+CC2 failed
+CC2: Inode 1 in use but not allocated
+CC2: Inode 15 allocated but not in use
+CC2: Inode 28 allocated but not in use
+CC3 passed

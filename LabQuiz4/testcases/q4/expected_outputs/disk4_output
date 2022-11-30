@@ -1,0 +1,7 @@
+CC1 passed
+CC2 passed
+CC3 failed
+CC3: Block 3 in use but not allocated
+CC3: Block 7 in use but not allocated
+CC3: Block 18 allocated but not in use
+CC3: Block 61 allocated but not in use

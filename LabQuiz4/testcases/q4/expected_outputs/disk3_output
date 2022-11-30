@@ -1,0 +1,8 @@
+CC1 failed
+CC1: file1 1 256 2
+CC1: file2 2 768 4
+CC1: file4 4 256 2
+CC1: file3 3 768 4
+CC1: / 0 3 4
+CC2 passed
+CC3 passed

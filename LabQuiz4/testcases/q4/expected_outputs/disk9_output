@@ -1,0 +1,9 @@
+CC1 passed
+CC2 failed
+CC2: Inode 1 in use but not allocated
+CC2: Inode 7 in use but not allocated
+CC2: Inode 22 allocated but not in use
+CC3 failed
+CC3: Block 0 in use but not allocated
+CC3: Block 17 in use but not allocated
+CC3: Block 33 allocated but not in use

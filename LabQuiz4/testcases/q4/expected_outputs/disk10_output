@@ -1,0 +1,26 @@
+CC1 failed
+CC1: dir2 2 0 1
+CC1: dir1 1 1 2
+CC1: dir6 9 65535 0
+CC1: file4 10 1024 3
+CC1: 0_.txt 7 1024 3
+CC1: 1_.txt 13 1024 3
+CC1: 2_.txt 14 1024 3
+CC1: 3_.txt 15 1024 3
+CC1: dir7 11 3 4
+CC1: dir4 5 3 4
+CC1: dir3 4 1 2
+CC1: / 0 1 2
+CC2 failed
+CC2: Inode 1 in use but not allocated
+CC2: Inode 7 in use but not allocated
+CC2: Inode 22 allocated but not in use
+CC3 failed
+CC3: Block 0 in use but not allocated
+CC3: Block 3 allocated but not in use
+CC3: Block 7 allocated but not in use
+CC3: Block 11 allocated but not in use
+CC3: Block 15 allocated but not in use
+CC3: Block 17 in use but not allocated
+CC3: Block 19 allocated but not in use
+CC3: Block 33 allocated but not in use
