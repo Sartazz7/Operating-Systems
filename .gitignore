@@ -1,0 +1,3 @@
+**/*.tar.gz
+**/xv6-public
+**/*.zip

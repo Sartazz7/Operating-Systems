@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "defs.h": "c",
+        "fcntl.h": "c",
+        "stat.h": "c",
+        "mmu.h": "c",
+        "types.h": "c",
+        "memlayout.h": "c",
+        "x86.h": "c"
+    }
+}
